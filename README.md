@@ -1,7 +1,7 @@
 # Cards-responsivos
-Olá, tudo bem? Fiz esse projeto seguindo a proposta da Girl Coding no youtube: https://youtu.be/_-3nHZHkn4M
+Hello. I did this project following the teachings of Girl Coding on youtube. Video link: https://youtu.be/_-3nHZHkn4M
 
-Detalhes do projeto: Responsive Cards using HTML and CSS.
+Project details: Responsive Cards using HTML and CSS.
 
 <p align="center">Web version:</p>
 
